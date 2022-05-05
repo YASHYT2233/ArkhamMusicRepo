@@ -103,7 +103,7 @@ packages
 node
 repo
 installation
-pprint "\n\n\n\n\nArkhan Music Bot Installation Completed!" "cgreen"
+pprint "\n\n\n\n\nArkham Music Bot Installation Completed!" "cgreen"
 sleep 4
 clear
 
